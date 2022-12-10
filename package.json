@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Quqon/JS_TDD#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.4"
   }
 }
