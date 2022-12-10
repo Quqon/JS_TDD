@@ -1,0 +1,22 @@
+{
+  "name": "js_tdd",
+  "version": "1.0.0",
+  "description": "Javascript 로 테스트코드에 대해 공부하는 레포입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quqon/JS_TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quqon/JS_TDD/issues"
+  },
+  "homepage": "https://github.com/Quqon/JS_TDD#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
