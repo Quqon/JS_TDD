@@ -4,7 +4,7 @@
   "description": "Javascript 로 테스트코드에 대해 공부하는 레포입니다.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Quqon/JS_TDD#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.5"
   }
 }
